@@ -1,0 +1,13 @@
+OpenJDK15
+IJ
+gradle
+testNG
+
+git -> Gradle
+
+
+gradle -v
+gradlew tasks
+gradlew run
+
+run test in gradle project
